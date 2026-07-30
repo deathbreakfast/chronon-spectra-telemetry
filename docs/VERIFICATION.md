@@ -40,4 +40,4 @@ cargo test
   unconfigured; assertions focus on contracts, remaps, and non-panic forward
   paths rather than captured sink rows.
 - Sad-path tests are named with `_sad` / `happy_and_sad` so audits detect them;
-  they assert concrete defaults and shapes, not smoke-only calls.
+  they assert concrete defaults and shapes, beyond smoke-only checks.
