@@ -1,4 +1,4 @@
-//! Install Chronon TelemetrySink from env and emit one typed counter.
+//! Install Chronon `TelemetrySink` from env and emit one typed counter.
 //!
 //! ```bash
 //! CHRONON_TELEMETRY=console CARGO_BUILD_JOBS=1 \
